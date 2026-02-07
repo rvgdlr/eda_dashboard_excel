@@ -1,4 +1,4 @@
-# 📊 Analisis de cuenta de resultado del año 2023
+# 📊 Analisis de deuda empresa servicios
 
 ## Descripción
 Através de la transformación y limpieza y análisis descriptivos de los datos se pretende determinar las ventas y los margenes de beneficio de todos los clientes, así como el global de la empresa en el año 2023. Para ello se creará un Dashboard con los KPIs determinantes y un enforme explicativo del análisis.
