@@ -1,19 +1,28 @@
-# 📊 Analisis de deuda empresa servicios
+# 📊 EDA Dashboard – Análisis de Deuda en Empresa de Servicios
 
-## Descripción
-Através de la transformación y limpieza y análisis descriptivos de los datos se pretende determinar las ventas y los margenes de beneficio de todos los clientes, así como el global de la empresa en el año 2023. Para ello se creará un Dashboard con los KPIs determinantes y un enforme explicativo del análisis.
+## 🧠 Descripción del Proyecto
 
-## 3. Estructura del repo
-'''bash
-|----- Proyecto_dashboard
-  |--- Data
-    |- Resultado_cuentas_servicios_raw.csc
+Este proyecto consiste en la realización de un **Análisis Exploratorio de Datos (EDA)** sobre la deuda pendiente de una empresa de servicios, con el objetivo de:
 
-## 🛠️ Herramientas
-- Microsoft Excel
-- Tablas dinámicas
-- Gráficos
-- Power Query (si aplica)
+- Analizar la distribución de los importes pendientes
+- Evaluar los días hasta vencimiento
+- Detectar concentración de riesgo financiero
+- Diseñar un **dashboard en Excel** orientado a la toma de decisiones
 
-## 📸 Preview
-![Dashboard](images/preview.png)
+El análisis se ha realizado utilizando **Excel**, aplicando técnicas estadísticas descriptivas y visualización de datos.
+
+---
+
+## 🎯 Objetivos del análisis
+
+- Comprender cómo se distribuye la deuda entre clientes
+- Identificar patrones de vencimiento
+- Detectar concentración del riesgo (efecto Pareto)
+- Evaluar dispersión y presencia de outliers
+- Diseñar un dashboard claro y orientado a negocio
+
+---
+
+## 📂 Estructura del repositorio
+
+
